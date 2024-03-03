@@ -1,7 +1,21 @@
-# Quick Scanner Address
+# Scanner Balance inside the Cryto Address
 
-## Types of addresses that can be scanned
+## Types of Crypto address can be scanned
 
-### ERC20
+### Ethereum
 
-### TRC20
+### Tron
+
+### Polygon
+
+### Binance Smart Chain
+
+### Optimism
+
+### Arbitrum
+
+# How to run this script
+
+```
+node index.js <network> <address>
+```
