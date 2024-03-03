@@ -1,11 +1,16 @@
 {
   "name": "scanner-address",
   "version": "1.0.0",
-  "description": "",
+  "description": "Scanner balance of address on etherscan",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --watchAll"
   },
+  "keywords": [
+    "etherscan",
+    "address",
+    "balance"
+  ],
   "author": "Ahmad Firdaus",
   "license": "ISC"
 }
